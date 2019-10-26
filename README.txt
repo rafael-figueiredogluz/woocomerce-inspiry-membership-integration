@@ -5,7 +5,7 @@ Tags: inspiry-membership, woocommerce, wordpress
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Integration inspiry-membership with woocomerce.
+Inspiry-membership integration with Woocomerce Plugin.
 
 == Description ==
 
